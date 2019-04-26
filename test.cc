@@ -2,7 +2,7 @@ int leftCounter=0,  rightCounter=0;
 unsigned long time = 0, old_time = 0; // 时间标记
 unsigned long time1 = 0; // 时间标记
 float lv,rv;//左、右轮速度
-
+//2019/4/26 回家啦
 #define STOP      0  //停止
 #define FORWARD   1  //向前
 #define BACKWARD  2  //向后
